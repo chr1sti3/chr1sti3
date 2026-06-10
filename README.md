@@ -1,4 +1,4 @@
-# Hi there, I'm Christie Anne ! 👋
+# Hi there, I'm Christie Anne 👋
 
 I am a passionate Computer Science student dedicated to building efficient software, exploring system architectures, and solving complex problems. I love turning logical concepts into functional, clean code.
 
