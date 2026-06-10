@@ -37,13 +37,6 @@ A functional low-level integer calculator developed using QtSpim, featuring dire
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 - 📧 **Email:** [a218691@siswa.ukm.edu.my]
