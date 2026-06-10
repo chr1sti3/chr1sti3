@@ -39,6 +39,6 @@ A functional low-level integer calculator developed using QtSpim, featuring dire
 
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 📧 **Email:** [a218691@siswa.ukm.edu.my]
+- 📧 **Email:** a218691@siswa.ukm.edu.my
 
 *"The best way to predict the future is to invent it."*
